@@ -9,6 +9,8 @@ name = "auto-ml-project-2"
 
 # load existing web service
 service = Webservice(name=name, workspace=ws)
+service.update(enable_app_insights=True)
+
 logs = service.get_logs()
 
 for line in logs.split('\n'):
