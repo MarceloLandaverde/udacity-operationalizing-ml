@@ -11,6 +11,9 @@
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
+Pic 1:
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/Active_Published_Pipeline_1.PNG)
+
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
