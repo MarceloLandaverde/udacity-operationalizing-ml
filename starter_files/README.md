@@ -30,7 +30,7 @@ Afterwards:
 - Assign the role to the new Service Principal for the given Workspace, Resource Group and User objectId
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/2_Creating_SP_Role_Owner.PNG)
 
-**Create and run AutoML Experiment:** \
+***Create and run AutoML Experiment:*** \
 At this point, security is enabled and authentication is completed. In this step an experiment using Automated ML will be created. This includes to configure a compute cluster and use that cluster to run the experiment.
 
 For the experiment, the “Bankmarketing dataset” will be used as input:
@@ -41,15 +41,15 @@ Once the experiment is completed the best model will be selected as you can see 
 
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/Best_model_1.PNG)
 
-**Deploy the Best Model:**\
+***Deploy the Best Model:***\
 After the experiment run completes, a summary of all the models and their metrics are shown, including explanations. In this case the best model will be selected to be deployed.
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/DeployingModel_2.PNG)
 
-**Enable Application Insights:**
+***Enable Application Insights:***
 
-**Consume Endpoints:**
+***Consume Endpoints:***
 
-**Publish and Consume a Pipeline**
+***Publish and Consume a Pipeline***
 
 
 
