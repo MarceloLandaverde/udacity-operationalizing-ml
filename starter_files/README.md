@@ -21,9 +21,9 @@ A “Service Principal” is a user role with controlled permissions to access s
 
 In the current project the udacity lab was used, thus there was no need for creating the above mentioned steps. Nevertheless below you will find the generic steps of how this could get done:
 
-Using the terminal ensure the az command-line tool is installed along with the ml extension \
-Authenticate \
-Create the “Service Principal” \
+- Using the terminal ensure the az command-line tool is installed along with the ml extension \
+- Authenticate \
+- Create the “Service Principal” 
 
 
 
@@ -45,3 +45,4 @@ Create the “Service Principal” \
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+ 
