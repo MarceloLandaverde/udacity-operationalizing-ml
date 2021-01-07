@@ -24,11 +24,11 @@ In the current project the udacity lab was used, thus there was no need for crea
 - Using the terminal ensure the az command-line tool is installed along with the ml extension
 - Authenticate
 - Create the “Service Principal” 
-
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/1_Creating_SP.PNG)
-
-
-
+Afterwards:
+- Capture the "objectId" using the clientID
+- Assign the role to the new Service Principal for the given Workspace, Resource Group and User objectId
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/2_Creating_SP_Role_Owner.PNG)
 
 **Create and run AutoML Experiment:**
 
