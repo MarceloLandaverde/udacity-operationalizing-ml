@@ -24,7 +24,8 @@ In the current project the udacity lab was used, thus there was no need for crea
 - Using the terminal ensure the az command-line tool is installed along with the ml extension
 - Authenticate
 - Create the “Service Principal” 
-![alt text](relative\C:\Users\PC-Fujitsu\Desktop\Pictures Project 2\1-Authentication)
+
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/1_Creating_SP.PNG)
 
 
 
