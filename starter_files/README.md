@@ -10,8 +10,19 @@
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
-######  - Model Deployment
+######  - Model Deployment:
 To be able to deploy a model the following “Key” steps should occur:
+
+###### - Create and run AutoML Experiment:
+
+###### - Deploy the Best Model:
+
+###### - Enable Application Insights:
+
+###### - Consume Endpoints:
+
+###### - Publish and Consume a Pipeline
+
 
 
 ## Screen Recording
