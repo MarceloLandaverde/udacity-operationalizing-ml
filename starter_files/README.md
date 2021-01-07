@@ -58,7 +58,8 @@ Now it is time to consume the deployed model using Swagger. Swagger is a tool th
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/localhost9000_2.PNG)
 
 
-***Publish and Consume a Pipeline***
+***Publish and Consume a Pipeline***\
+Here the already created pipeline will be published for consuming it.
 
 
 
