@@ -1,7 +1,7 @@
 *NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
-# Your Project Title Here
+# Operationalizing Machine Learning
 
 *TODO:* Write an overview to your project.
 
@@ -37,11 +37,13 @@ For the experiment, the “Bankmarketing dataset” will be used as input:
 
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/Bankmarketing_1.PNG)
 
-Once the experiment is completed the best model will be selected as you can see in the pictures below:\
+Once the experiment is completed the best model will be selected as you can see in the pictures below:
 
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/Best_model_1.PNG)
 
-**Deploy the Best Model:**
+**Deploy the Best Model:**\
+After the experiment run completes, a summary of all the models and their metrics are shown, including explanations. In this case the best model will be selected to be deployed.
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/DeployingModel_2.PNG)
 
 **Enable Application Insights:**
 
