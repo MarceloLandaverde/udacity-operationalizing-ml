@@ -11,7 +11,7 @@
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
-**Model Deployment:** \
+***Model Deployment:*** \
 To be able to deploy a model the following “Key” steps should occur:
 
 *Enable Security and Authentication* \
@@ -45,9 +45,18 @@ Once the experiment is completed the best model will be selected as you can see 
 After the experiment run completes, a summary of all the models and their metrics are shown, including explanations. In this case the best model will be selected to be deployed.
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/DeployingModel_2.PNG)
 
-***Enable Application Insights:***
+***Enable Application Insights:***\
+The next will be to activate “Application Insights” which is a particularly useful tool to detect anomalies and visualize performance.
 
-***Consume Endpoints:***
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/Model_After_Enabling_Insights.PNG)
+
+***Consume Endpoints:***\
+Now it is time to consume the deployed model using Swagger. Swagger is a tool that helps build, document, and consume RESTful web services like the one deployed in Azure ML Studio.
+
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/localhost9000.PNG)
+
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/localhost9000_2.PNG)
+
 
 ***Publish and Consume a Pipeline***
 
