@@ -34,8 +34,11 @@ Afterwards:
 At this point, security is enabled and authentication is completed. In this step an experiment using Automated ML will be created. This includes to configure a compute cluster and use that cluster to run the experiment.
 
 For the experiment, the “Bankmarketing dataset” will be used as input:
+
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/Bankmarketing_1.PNG)
+
 Once the experiment is completed the best model will be selected as you can see in the pictures below:\
+
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/Best_model_1.PNG)
 
 **Deploy the Best Model:**
