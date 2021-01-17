@@ -97,17 +97,22 @@ Now it is time to consume the deployed model using Swagger. Swagger is a tool th
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/6-Consume_End_Point.PNG)
 
 ***Publish and Consume a Pipeline***\
-Here the already created pipeline will be published for consuming it.
+Here you can see the already created pipeline which is active:
 
+##### Bankmarketing Train Pipeline:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/7-Pipeline_Published_and_Active.PNG)
 
+##### AutoML Module:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/8-AutoMLModule.PNG)
 
+##### Use RunDetails Widget:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/9-Run_Details_Widget.PNG)
 
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+Here you can see a short Video (14 Min) explaining the above listed steps
+
 https://www.youtube.com/watch?hd=1&v=gJk-ztUjYPw&feature=youtu.be
 
 
