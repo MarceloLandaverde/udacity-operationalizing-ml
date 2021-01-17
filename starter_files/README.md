@@ -52,7 +52,7 @@ At this point, security is enabled and authentication is completed. In this step
 
 For the experiment, the “Bankmarketing dataset” will be used as input:
 
-### Registered Datasets:
+# Registered Datasets:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/1-Registered_Datasets.PNG)
 
 Once the experiment is completed the best model will be selected as you can see in the pictures below:
