@@ -111,11 +111,21 @@ Here you can see the already created pipeline which is active:
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-Here you can see a short Video (14 Min) explaining the above listed steps
+Here you can see a short Video (14 Min; Sorry it is very difficult to show something in just 5 Min.) explaining the above listed steps
 
 https://www.youtube.com/watch?hd=1&v=gJk-ztUjYPw&feature=youtu.be
 
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+Please take into account that the following project concentrates mostly on configuring, deploying and comsuming a model.
+Of course it would be possible to go more in depth in other area which are also important. For example:
+
+Testing "Feature Engineering" within the automl settings.
+Going deeper with the EDA before running the experiment
+Taking care of imbalanced data
+
+The above and other topics will be possible, nevertheless this would "blow up" the scope and the content of this project
+
+
  
