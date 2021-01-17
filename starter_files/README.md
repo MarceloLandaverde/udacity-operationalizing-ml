@@ -122,9 +122,9 @@ https://www.youtube.com/watch?hd=1&v=gJk-ztUjYPw&feature=youtu.be
 Please take into account that the following project concentrates mostly on configuring, deploying and comsuming a model.
 Of course it would be possible to go more in depth in other area which are also important. For example:
 
-Testing "Feature Engineering" within the automl settings.
-Going deeper with the EDA before running the experiment
-Taking care of imbalanced data
+- Testing "Feature Engineering" within the automl settings.
+- Going deeper with the EDA before running the experiment
+- Taking care of imbalanced data
 
 The above and other topics will be possible, nevertheless this would "blow up" the scope and the content of this project
 
