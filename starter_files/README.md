@@ -52,45 +52,45 @@ At this point, security is enabled and authentication is completed. In this step
 
 For the experiment, the “Bankmarketing dataset” will be used as input:
 
-# Registered Datasets:
+##### Registered Datasets:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/1-Registered_Datasets.PNG)
 
 Once the experiment is completed the best model will be selected as you can see in the pictures below:
 
-### Experiment Run completed:
+##### Experiment Run completed:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/2-Run_Completed.PNG)
 
-### Best Model:
+##### Best Model:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/3-Best_Model.PNG)
 
 ***Deploy the Best Model:***\
 After the experiment run completes, a summary of all the models and their metrics are shown, including explanations. In this case the best model will be selected to be deployed.
 
-### Best Model:
+##### Best Model:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/3-Best_Model.PNG)
 
 ***Enable Application Insights:***\
 The next will be to activate “Application Insights” which is a particularly useful tool to detect anomalies and visualize performance.
 
-### Application Insights Enable:
+##### Application Insights Enable:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/4-Application_Insights.PNG)
 
-### logs.py file:
+##### logs.py file:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/4.1-LogsPY.PNG)
 
-### Running logs.py file:
+##### Running logs.py file:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/4.2-LogsPYCommandLine.PNG)
 
 ***Consume Endpoints:***\
 Now it is time to consume the deployed model using Swagger. Swagger is a tool that helps build, document, and consume RESTful web services like the one deployed in Azure ML Studio.
 
-### Interacting with Swagger:
+##### Interacting with Swagger:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/localhost9000.PNG)
 
-### Interacting with Swagger Deployed Model:
+##### Interacting with Swagger Deployed Model:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/5-Swagger_Instance.PNG)
 
-### Consuming Endpoint:
+##### Consuming Endpoint:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/6-Consume_End_Point.PNG)
 
 ***Publish and Consume a Pipeline***\
