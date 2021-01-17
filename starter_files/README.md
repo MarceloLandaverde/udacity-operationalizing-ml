@@ -75,8 +75,11 @@ The next will be to activate “Application Insights” which is a particularly 
 ##### Application Insights Enable:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/4-Application_Insights.PNG)
 
+Enabling Application Insights will be done in this case using the following python script:
 ##### logs.py file:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/4.1-LogsPY.PNG)
+
+This python scripts basically contains the commands needed which will be run using the CLI. (See picture below)
 
 ##### Running logs.py file:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/4.2-LogsPYCommandLine.PNG)
