@@ -4,6 +4,18 @@
 # Operationalizing Machine Learning
 
 *TODO:* Write an overview to your project.
+In this project we will use Azure to configure a cloud-based machine learning production model, deploy it, and consume it. At the same time we will also create, publish, and consume a pipeline.
+
+The main steps of the project will be the following:
+
+- Authentication
+- Automated ML Experiment
+- Deploy the best model
+- Enable logging
+- Swagger Documentation
+- Consume model endpoints
+- Create and publish a pipeline
+- Documentation
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
