@@ -1,11 +1,7 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
+
 
 
 # Operationalizing Machine Learning
-
-*TODO:* Write an overview to your project.
-In this project we will use Azure to configure a cloud-based machine learning production model, deploy it, and consume it. At the same time we will also create, publish, and consume a pipeline.
-
 The main steps of the project will be the following:
 
 - Authentication
@@ -18,8 +14,6 @@ The main steps of the project will be the following:
 - Documentation
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
-
 The following diagram should help us to visualize the flow of operations from start to finish. This diagramm should be self-explanatory but if not then 
 you can map this diagram with the information and code of the Jupyter notebook ( aml-pipelines-with-automated-machine-learning-step-2.ipynb)
 https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/aml-pipelines-with-automated-machine-learning-step-2.ipynb
@@ -27,7 +21,6 @@ https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/sta
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/Arc_Diagramm.PNG)
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
 ***Model Deployment:*** \
 To be able to deploy a model the following “Key” steps should occur:
@@ -111,14 +104,12 @@ Here you can see the already created pipeline which is active:
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 Here you can see a short Video (14 Min; Sorry it is very difficult to show something in just 5 Min.) explaining the above listed steps
 
 https://www.youtube.com/watch?hd=1&v=gJk-ztUjYPw&feature=youtu.be
 
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+## Others
 Please take into account that the following project concentrates mostly on configuring, deploying and comsuming a model.
 Of course it would be possible to go more in depth in other area which are also important. For example:
 
