@@ -5,6 +5,7 @@
 The main steps of the project will be the following:
 
 - Authentication
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication
 - Automated ML Experiment
 - Deploy the best model
 - Enable logging
