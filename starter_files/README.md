@@ -57,15 +57,15 @@ At this point, security is enabled and authentication is completed. In this step
 For the experiment, the “Bankmarketing dataset” will be used as input:
 
 ##### Registered Datasets:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/1-Registered_Datasets.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/1.JPG)
 
 Once the experiment is completed the best model will be selected as you can see in the pictures below:
 
 ##### Experiment Run completed:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/2-Run_Completed.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/2.JPG)
 
 ##### Best Model:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/3-Best_Model.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/3.JPG)
 
 ***Deploy the Best Model:***\
 After the experiment run completes, a summary of all the models and their metrics are shown, including explanations. In this case the best model will be selected to be deployed.
