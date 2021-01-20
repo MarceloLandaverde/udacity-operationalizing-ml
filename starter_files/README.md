@@ -118,11 +118,13 @@ Here you can see the already created pipeline which is active:
 ##### Bankmarketing Train Pipeline:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/9.JPG)
 
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/10.JPG)
+
 ##### AutoML Module:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/8-AutoMLModule.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/11.JPG)
 
 ##### Use RunDetails Widget:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/9-Run_Details_Widget.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/12.JPG)
 
 
 ## Screen Recording
