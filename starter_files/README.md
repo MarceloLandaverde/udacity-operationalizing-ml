@@ -118,7 +118,7 @@ Here you can see a short Video which provides a summary of the above listed step
 
 https://www.youtube.com/watch?hd=1&v=8X3sD2gNi_0&feature=youtu.be
 
-In addition you can see an additional video (### deprecated) which shows more detailed information concerning the above listed steps:
+In addition you can see an additional video (**deprecated**) which shows more detailed information concerning the above listed steps:
 
 https://www.youtube.com/watch?hd=1&v=gJk-ztUjYPw&feature=youtu.be
 
