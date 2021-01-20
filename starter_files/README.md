@@ -8,7 +8,8 @@ The main steps of the project will be the following:
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication
 - Automated ML Experiment \
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-train
-- Deploy the best model
+- Deploy the best model \
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-azure-container-instance
 - Enable logging \
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-enable-app-insights
 - Swagger Documentation \
@@ -18,8 +19,9 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-consume-web-servi
 - Create and publish a pipeline \
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-machine-learning-pipelines
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-pipelines
 https://docs.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.pipeline_endpoint.pipelineendpoint?view=azure-ml-py
-- Documentation 
+- Documentation
 
 ## Architectural Diagram
 The following diagram should help us to visualize the flow of operations from start to finish. This diagramm should be self-explanatory but if not then 
