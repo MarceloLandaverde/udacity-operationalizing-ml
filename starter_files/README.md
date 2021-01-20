@@ -89,13 +89,13 @@ After deployment we get access to some other important information that we will 
 The next will be to activate “Application Insights” which is a particularly useful tool to detect anomalies and visualize performance.
 
 ##### Application Insights Enable:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/4-Application_Insights.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/4.JPG)
 
-Enabling Application Insights will be done in this case using the following python script:
+Enabling Application Insights was be done in this case using the following python script:
 ##### logs.py file:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/4.1-LogsPY.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/5.JPG)
 
-This python scripts basically contains the commands needed which will be run using the CLI. (See picture below)
+This python scripts basically contains the commands needed which was run using the CLI. (See picture below)
 
 ##### Running logs.py file:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/4.2-LogsPYCommandLine.PNG)
