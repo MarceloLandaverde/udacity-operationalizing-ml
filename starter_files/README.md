@@ -104,19 +104,19 @@ This python scripts basically contains the commands needed which was run using t
 Now it is time to consume the deployed model using Swagger. Swagger is a tool that helps build, document, and consume RESTful web services like the one deployed in Azure ML Studio.
 
 ##### Interacting with Swagger:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/localhost9000.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/6.JPG)
 
 ##### Interacting with Swagger Deployed Model:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/5-Swagger_Instance.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/7.JPG)
 
 ##### Consuming Endpoint:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/6-Consume_End_Point.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/8.JPG)
 
 ***Publish and Consume a Pipeline***\
 Here you can see the already created pipeline which is active:
 
 ##### Bankmarketing Train Pipeline:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/7-Pipeline_Published_and_Active.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/9.JPG)
 
 ##### AutoML Module:
 ![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/8-AutoMLModule.PNG)
