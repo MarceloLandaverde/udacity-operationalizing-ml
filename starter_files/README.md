@@ -71,7 +71,19 @@ Once the experiment is completed the best model will be selected as you can see 
 After the experiment run completes, a summary of all the models and their metrics are shown, including explanations. In this case the best model will be selected to be deployed.
 
 ##### Best Model:
-![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/3-Best_Model.PNG)
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/3.JPG)
+
+After having the best model. It will be deployed using Azure Container Instance and enabling authentication
+##### Deploy Best Model:
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/3.1.JPG)
+
+Now we ca see that the model has been successfully deployed.
+##### Best Model Deployed:
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/3.2.JPG)
+
+After deployment we get access to some other important information that we will need when consuming the model
+##### REST Endpoint Deployed Model:
+![alt text](https://github.com/MarceloLandaverde/udacity-operationalizing-ml/blob/master/starter_files/Project_Pictures/3.3.JPG)
 
 ***Enable Application Insights:***\
 The next will be to activate “Application Insights” which is a particularly useful tool to detect anomalies and visualize performance.
