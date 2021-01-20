@@ -127,9 +127,12 @@ https://www.youtube.com/watch?hd=1&v=gJk-ztUjYPw&feature=youtu.be
 Please take into account that the following project concentrates mostly on configuring, deploying and comsuming a model.
 Of course it would be possible to go more in depth in other area which are also important. For example:
 
-- Testing "Feature Engineering" within the automl settings.
-- Going deeper with the EDA before running the experiment
-- Taking care of imbalanced data
+- Testing "Feature Engineering" within the automl settings. \
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-features#automated-feature-engineering
+- Going deeper with the EDA(Explorative Data Analyis) before running the experiment. \
+https://gist.github.com/malinxiao/4f585460df7711bee79e8a7a9b05038f#file-ml-in-python-eda-ipynb
+- Taking care of imbalanced data \
+https://docs.microsoft.com/en-us/azure/machine-learning/concept-manage-ml-pitfalls#handle-imbalanced-data
 
 The above and other topics will be possible, nevertheless this would "blow up" the scope and the content of this project
 
